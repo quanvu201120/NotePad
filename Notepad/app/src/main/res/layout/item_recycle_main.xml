@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginStart="@dimen/size10dp"
+    android:layout_marginBottom="@dimen/size10dp"
+    android:background="@drawable/bg_item_recycle_main">
+
+
+    <TextView
+        android:paddingStart="@dimen/size10dp"
+        android:paddingEnd="@dimen/size10dp"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_title_item"
+        android:textColor="@color/purple_500"
+        android:textSize="@dimen/size20sp"
+        android:text="title"
+        android:gravity="center" />
+
+
+
+    <TextView
+        android:layout_marginTop="@dimen/size10dp"
+        android:layout_marginBottom="@dimen/size10dp"
+        android:ellipsize="marquee"
+        android:paddingStart="@dimen/size10dp"
+        android:paddingEnd="@dimen/size10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_content_item"
+        android:textColor="@color/gray2"
+        android:textSize="@dimen/size16sp"
+        android:text="content"
+        android:maxLines="4"
+        android:gravity="center" />
+
+
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_time_item"
+        android:textColor="@color/gray2"
+        android:textSize="@dimen/size15sp"
+        android:text="title"
+        android:paddingLeft="@dimen/size20dp"
+        android:gravity="left" />
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/size20dp">
+    <TextView
+        android:layout_marginBottom="@dimen/size10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/size20sp"
+        android:textColor="@color/black"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:text="Xác thực mật khẩu cũ"/>
+
+
+    <EditText
+        android:id="@+id/edt_xacthucmk_dialog_xacthucmk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_searchview_main"
+        android:gravity="center"
+        android:hint="Xác thực mật khẩu cũ"
+        android:inputType="textPassword"
+        android:padding="@dimen/size10dp"
+        android:textSize="@dimen/size18sp"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <android.widget.Button
+        android:layout_marginTop="@dimen/size10dp"
+        android:textSize="@dimen/size15sp"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size50dp"
+        android:text="Xác nhận"
+        android:id="@+id/btn_xacnhan_dialog_xacthucmk"/>
+
+    <ProgressBar
+        android:layout_marginTop="@dimen/size10dp"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/size50dp"
+        android:layout_gravity="center"
+        android:id="@+id/progress_dialog_xacthucmk"
+        android:indeterminateDrawable="@drawable/progressbar_loading"/>
+
+</LinearLayout>

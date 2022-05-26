@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intro1">Chào mừng đến với\nNotepad</string>
+    <string name="intro2">Dễ dàng lưu lại\ncác ghi chú\nquan trọng</string>
+    <string name="intro3">Sao lưu nhanh chóng\nKhôi phục đơn giản</string>
+</resources>

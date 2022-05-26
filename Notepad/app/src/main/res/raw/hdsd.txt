@@ -1,0 +1,9 @@
+* SAO LƯU DỮ LIỆU
+- Dữ liệu sẽ được tạo một bản sao để lưu trữ trên hệ thống.
+- Dữ liệu trên hệ thống sẽ được cập nhật giống với dữ liệu trên thiết bị (nếu đã được sao lưu trước đó).
+
+* TẢI XUỐNG / KHÔI PHỤC DỮ LIỆU
+- Khi xóa dữ liệu hoặc cài đặt ứng dụng ở thiết bị mới. Dữ liệu trên máy sẽ không còn nữa.
+- Dữ liệu sẽ được tải xuống từ bản sao lưu trước đó về thiết bị.
+- Trường hợp ghi chú trên thiết bị không còn, khôi phục sẽ tải dữ liệu về thiết bị như một ghi chú mới.
+- Trường hợp dữ liệu trên máy đã thay đổi nội dung, khác với dữ liệu đã sao lưu. Dữ liệu không ghi đè lên mà sẽ lưu chung vào ghi chú đó và được đánh dấu riêng biệt

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/drawable/bg_item_recycle_main.xml" value="0.2595" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/drawable/bg_light_radius.xml" value="0.2595" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/drawable/bg_searchview_main.xml" value="0.151" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/drawable/btn_add_radius.xml" value="0.2585" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.2595" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/drawable/ic_baseline_delete.xml" value="0.151" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.2595" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/drawable/ic_baseline_next.xml" value="0.2595" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/drawable/popup.xml" value="0.151" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/drawable/progressbar_loading.xml" value="0.2595" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/drawable/select_bottom_nav.xml" value="0.2585" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/activity_add_note.xml" value="0.264" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/activity_intro.xml" value="0.264" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/activity_loading.xml" value="0.264" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/activity_mine.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/activity_sign_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/activity_sync.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/activity_update_note.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/activity_update_note_sync.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/dialog_doimk_sync.xml" value="0.264" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/dialog_edit_sync.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/dialog_hdsd.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/dialog_quen_mat_khau.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/dialog_xacthucmk_sync.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/fragment_bottom1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/fragment_bottom2.xml" value="0.264" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/fragment_intro1.xml" value="0.24010416666666667" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/fragment_intro2.xml" value="0.264" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/fragment_intro3.xml" value="0.264" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/item_recycle_bottom1.xml" value="0.264" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/item_recycle_main.xml" value="0.264" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/layout/popup_show_note.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/menu/bottom_navigation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/menu/popup_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/Notepad/app/src/main/res/menu/popup_mine.xml" value="0.264" />
+        <entry key="..\:/NotePad/Notepad/app/src/main/res/layout/activity_add_note.xml" value="0.25416666666666665" />
+        <entry key="..\:/NotePad/Notepad/app/src/main/res/layout/activity_intro.xml" value="0.264" />
+        <entry key="..\:/NotePad/Notepad/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/NotePad/Notepad/app/src/main/res/layout/activity_sign_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/NotePad/Notepad/app/src/main/res/layout/dialog_quen_mat_khau.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

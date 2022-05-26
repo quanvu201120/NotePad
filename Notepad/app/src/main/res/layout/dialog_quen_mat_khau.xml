@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/size10dp"
+    android:layout_margin="@dimen/size10dp"
+    android:background="@drawable/bg_light_radius">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/size30sp"
+        android:text="Quên mật khẩu"
+        android:textColor="@color/brown"
+        android:gravity="center"/>
+
+    <EditText
+        android:id="@+id/edt_quenmk_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/size10dp"
+        android:gravity="center"
+        android:inputType="text"
+        android:padding="@dimen/size10dp"
+        android:textColor="@color/brown"
+        android:textSize="@dimen/size20sp"
+        tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
+
+    <android.widget.Button
+        android:id="@+id/btn_gui_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/size40dp"
+        android:layout_gravity="center"
+        android:background="@drawable/bg_searchview_main"
+        android:text="Gửi"
+        android:textColor="@color/brown"
+        android:textSize="@dimen/size16sp"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <ProgressBar
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/size40dp"
+        android:layout_gravity="center"
+        android:indeterminateTint="@color/brown"
+        android:id="@+id/progress_quenmk"/>
+
+
+</LinearLayout>
